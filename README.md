@@ -1,4 +1,4 @@
-# project_niobium-sample
+# Project_Niobium Sample Files
 Sample files from the Modular Weapons (Project_Niobium) project\
 A Modular weapon system developed in C++ and Unreal Blueprint, which uses 'Cores' to define the firing mechanism of the weapon and 'Modifiers' to augment the functionality of the weapon\
 This repository contains c++ files for important aspects of the project:
